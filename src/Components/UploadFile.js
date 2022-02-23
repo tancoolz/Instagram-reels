@@ -92,7 +92,7 @@ function UploadFile(props) {
                     {loading && <LinearProgress color="secondary" style={{marginTop:'3%'}} />}
                 </>
             }
-        </div>
+        </div> 
         </div>
     )
 }
